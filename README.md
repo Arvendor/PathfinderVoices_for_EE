@@ -50,6 +50,9 @@ A mix of subservience and ruthless survivalism. Would be perfect for an Evil Ran
 Woljif: "Hah! I win!"
 A roguish personality and a bit of a goofball. Should work well for any chaotically aligned Mage/Thief combination. (His idle dialog implies that he is a Tiefling.)
 
+Female Aggressive: "Everyone is mortal in this world. Especially when I'm around!"
+One of the generic personality voices which is intended to be picked by the player in PF:WotR. This is mainly here because it was the first dialog set I converted as a test. Based on disposition it could fit CHARNAME 'very' well.
+
 INSTALLATION:
 
 As any other Infinity Engine mod - unpack the mod in game's main directory and run WeiDU installer (Setup-aw_PF_soundsets.exe). Then, follow instruction that will be displayed in WeiDU window.
