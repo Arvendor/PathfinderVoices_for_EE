@@ -1,6 +1,6 @@
 BACKUP ~aw_PF_soundsets/backup~ // location to store files for uninstall purposes
 AUTHOR ~Arvendor (habelteagle@gmail.com)~
-SUPPORT ~https://www.gibberlings3.net/forums/topic/34560-adding-soundsets-to-the-ees-using-the-ee-soundset-tool/~
+//SUPPORT ~https://www.gibberlings3.net/forums/topic/34560-adding-soundsets-to-the-ees-using-the-ee-soundset-tool/~
 
 LANGUAGE ~English~ ~english~ ~%MOD_FOLDER%/english/setup.tra~
 
